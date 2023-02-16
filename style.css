@@ -1,0 +1,8 @@
+.row {
+    display: flex;
+    gap: 40px;
+}
+
+.jumbotron {
+    background-color: rgb(224, 222, 222);
+}
